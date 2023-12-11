@@ -17,6 +17,7 @@ module.exports = {
         "makanika-frost-blue": "#EAF5FF",
         "makankika-jet-black": "#181716",
         "makanika-sunflower-yellow": "#EEAF19",
+        "makanika-light-blue": "#00AEEF",
       },
       gridTemplateColumns: {
         "full-bleed": "1fr repeat(2, minmax(auto, 39em)) 1fr;",
