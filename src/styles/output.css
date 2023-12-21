@@ -1917,6 +1917,11 @@ video {
   padding-bottom: 4rem;
 }
 
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 .pb-5 {
   padding-bottom: 1.25rem;
 }
@@ -1939,6 +1944,10 @@ video {
 
 .pl-8 {
   padding-left: 2rem;
+}
+
+.pl-6 {
+  padding-left: 1.5rem;
 }
 
 .text-center {
